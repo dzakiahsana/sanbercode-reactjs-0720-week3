@@ -1,0 +1,32 @@
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  margin-left: 135px;
+}
+
+.tabel {
+  margin-left: 350px;
+  margin-top: 150px;
+}
+
+.tabel1 {
+  border-collapse: collapse;
+  border: 1px solid #000000;
+}
+
+.tabel1 tr th{ 
+  background: rgba(92, 92, 92, 0.37);
+  padding-right:75px;
+}
+
+.tabel1, th, td {
+  padding: 8px 60px;
+}
+
+.tabel2 {
+  background: #FF7F50;
+  margin: 3px;
+
+}
