@@ -1,14 +1,15 @@
 * {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Calibri'
 }
 
+/* Tugas 11 */
 h1 {
   margin-left: 135px;
 }
 
 .tabel {
-  margin-left: 350px;
-  margin-top: 150px;
+  margin-left: 380px;
+  margin-top: 25px;
 }
 
 .tabel1 {
@@ -29,4 +30,15 @@ h1 {
   background: #FF7F50;
   margin: 3px;
 
+}
+
+/* Tugas 12 */
+.timer {
+  margin-top: 80px;
+  margin-left: 360px;
+}
+
+.clock {
+  margin-right: 800px;
+  margin-top: -77px;
 }
