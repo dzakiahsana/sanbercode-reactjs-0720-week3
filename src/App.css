@@ -3,7 +3,7 @@
 }
 
 /* Tugas 11 */
-h1 {
+/* h1 {
   margin-left: 135px;
 }
 
@@ -30,7 +30,7 @@ h1 {
   background: #FF7F50;
   margin: 3px;
 
-}
+} */
 
 /* Tugas 12 */
 .timer {
@@ -39,6 +39,42 @@ h1 {
 }
 
 .clock {
-  margin-right: 800px;
+  margin-right: 700px;
   margin-top: -77px;
+}
+
+
+/* Tugas 13 */
+h1 {
+  margin-left: 235px;
+}
+
+.tabel {
+  margin-left: 280px;
+  margin-top: 50px;
+}
+
+.tabel1 {
+  border-collapse: collapse;
+  border: 1px solid #000000;
+}
+
+.tabel1 tr th{ 
+  background: rgba(92, 92, 92, 0.37);
+  padding-right:90px;
+}
+
+.tabel1, th, td {
+  padding: 8px 60px;
+}
+
+.tabel2 {
+  background: #FF7F50;
+  margin: 3px;
+
+}
+
+.form {
+  margin-left: 225px;
+  padding-bottom: 100px;
 }
