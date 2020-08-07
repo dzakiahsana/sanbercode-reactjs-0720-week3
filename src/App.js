@@ -2,7 +2,9 @@ import React from 'react';
 import './App.css';
 import Timer from './tugas12/Timer';
 import Clock from './tugas12/Clock';
-import Table2 from './tugas13/Table2';
+/* import Table2 from './tugas13/Table2'; */
+import Hooks from './tugas14/Hooks';
+
 
 
 
@@ -17,7 +19,11 @@ function App() {
         <Clock /> 
 
         {/* Tugas 13 */}
-         <Table2 /> 
+        {/*  <Table2 />  */}
+
+          {/* Tugas 14 */}
+          <Hooks /> 
+          
         
     </div>
   );
